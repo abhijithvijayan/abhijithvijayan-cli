@@ -1,6 +1,6 @@
 {
 	"name": "abhijithvijayan",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "The Abhijith Vijayan CLI",
 	"license": "MIT",
 	"repository": "https://github.com/abhijithvijayan/abhijithvijayan",
@@ -16,7 +16,8 @@
 		"lint:fix": "eslint . --fix"
 	},
 	"files": [
-		"cli.js"
+		"cli.js",
+		"ui.js"
 	],
 	"keywords": [
 		"cli",
