@@ -1,7 +1,7 @@
-const React = require('react');
-const { Box } = require('ink');
-const SelectInput = require('ink-select-input').default;
 const open = require('open');
+const { Box } = require('ink');
+const React = require('react');
+const SelectInput = require('ink-select-input').default;
 
 const handleSelect = item => {
 	if (item.url) {
