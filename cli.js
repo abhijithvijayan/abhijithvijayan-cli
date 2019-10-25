@@ -8,14 +8,13 @@ const { render } = require('ink');
 
 const ui = importJsx('./ui');
 
-
 meow(`
 	Usage
 	  $ abhijithvijayan
 `);
 
 (async () => {
-	await showBanner('Abhijith Vijayan', 'Full Stack Open Source Engineer');
+	await showBanner('Abhijith Vijayan', 'Full Stack Open Source Engineer', 'blue');
 
 	render(React.createElement(ui));
 })();
