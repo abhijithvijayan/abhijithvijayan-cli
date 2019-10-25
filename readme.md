@@ -2,7 +2,7 @@
 
 > The [Abhijith Vijayan](https://abhijithvijayan.in) CLI
 
-<img src="screenshot.png" width="752">
+<img src="terminal.png" width="752">
 
 ## Usage
 
