@@ -31,7 +31,7 @@ const listItems = createList([
 		url: 'https://twitter.com/_abhijithv',
 	},
 	{
-		label: 'Linkedin',
+		label: 'LinkedIn',
 		url: 'https://linkedin.com/in/abhijith-vijayan',
 	},
 	{
