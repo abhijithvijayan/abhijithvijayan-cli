@@ -1,0 +1,28 @@
+{
+	"name": "abhijithvijayan",
+	"version": "0.0.1",
+	"description": "The Abhijith Vijayan CLI",
+	"license": "MIT",
+	"repository": "https://github.com/abhijithvijayan/abhijithvijayan",
+	"author": "abhijithvijayan",
+	"bin": {
+		"abhijithvijayan": "cli.js"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"files": [
+		"cli.js"
+	],
+	"keywords": [
+		"cli",
+		"cli-app",
+		"abhijithvijayan"
+	],
+	"dependencies": {
+		"meow": "^5.0.0"
+	},
+	"devDependencies": {
+		"execa": "^3.2.0"
+	}
+}
