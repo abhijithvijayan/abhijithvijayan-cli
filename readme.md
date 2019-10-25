@@ -10,11 +10,6 @@ Install Node.js, then:
 $ npx abhijithvijayan
 ```
 
-## Built with
-
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [terminal-image](https://github.com/abhijithvijayan/terminal-image) - Display images in the terminal
-
 ## Inspiration
 
 [Sindre Sorhus](https://github.com/sindresorhus)
