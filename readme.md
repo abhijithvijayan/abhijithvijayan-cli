@@ -6,7 +6,7 @@
 
 ## Usage
 
-Install Node.js, then:
+Install [Node.js](https://nodejs.org/), then:
 
 ```
 $ npx abhijithvijayan
