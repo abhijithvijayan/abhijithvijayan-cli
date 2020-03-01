@@ -14,7 +14,7 @@ meow(`
 `);
 
 (async () => {
-	await showBanner('Abhijith Vijayan', 'Full Stack Open Source Engineer', 'blue');
+	await showBanner('Abhijith Vijayan', "I build things that aren't evil.", 'blue');
 
 	render(React.createElement(ui));
 })();

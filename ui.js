@@ -32,7 +32,7 @@ const listItems = createList([
 	},
 	{
 		label: 'LinkedIn',
-		url: 'https://linkedin.com/in/abhijith-vijayan',
+		url: 'https://linkedin.com/in/iamabhijithvijayan',
 	},
 	{
 		label: 'Blog',
