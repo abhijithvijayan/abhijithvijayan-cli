@@ -44,7 +44,7 @@ const listItems = createList([
 	},
 	{
 		label: 'Support my open source work',
-		url: 'https://www.patreon.com/abhijithvijayan',
+		url: 'https://www.buymeacoffee.com/abhijithvijayan',
 	},
 	{
 		label: '---------',
