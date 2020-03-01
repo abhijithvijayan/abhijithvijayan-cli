@@ -15,7 +15,7 @@
 </p>
 <hr />
 
-<img src="terminal.png" width="752">
+<img src="screenshot.png" width="752">
 
 ## Usage
 
