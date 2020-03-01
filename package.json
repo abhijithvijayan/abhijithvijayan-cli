@@ -9,7 +9,7 @@
 		"abhijithvijayan": "cli.js"
 	},
 	"engines": {
-		"node": ">=8"
+		"node": ">=10"
 	},
 	"scripts": {
 		"lint": "eslint .",

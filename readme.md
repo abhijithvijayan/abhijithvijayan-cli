@@ -14,11 +14,12 @@
   </a>
 </p>
 <hr />
+
 <img src="terminal.png" width="752">
 
 ## Usage
 
-Install [Node.js](https://nodejs.org/), then:
+Install [Node.js](https://nodejs.org/) 10 or later, then run
 
 ```
 $ npx abhijithvijayan
