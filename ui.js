@@ -19,32 +19,32 @@ const createList = items => {
 
 const listItems = createList([
 	{
-		label: 'Website',
+		label: 'Website 🏠',
 		url: 'https://abhijithvijayan.in',
 	},
 	{
-		label: 'GitHub',
+		label: 'Code 💻',
 		url: 'https://github.com/abhijithvijayan',
 	},
 	{
-		label: 'Twitter',
+		label: 'Tweets ⚡',
 		url: 'https://twitter.com/_abhijithv',
 	},
 	{
-		label: 'LinkedIn',
-		url: 'https://linkedin.com/in/iamabhijithvijayan',
-	},
-	{
-		label: 'Blog',
+		label: 'Writings 📝',
 		url: 'https://medium.com/@abhijithvijayan',
 	},
 	{
-		label: 'Contact',
-		url: 'https://abhijithvijayan.in/#contact',
+		label: 'Hire 💼',
+		url: 'https://linkedin.com/in/iamabhijithvijayan',
 	},
 	{
-		label: 'Support my open source work',
-		url: 'https://www.buymeacoffee.com/abhijithvijayan',
+		label: 'Contact 📩',
+		url: 'mailto:email@abhijithvijayan.in',
+	},
+	{
+		label: 'Support my open source work 💌',
+		url: 'https://abhijithvijayan.in/donate',
 	},
 	{
 		label: '---------',
