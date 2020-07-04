@@ -1,5 +1,12 @@
 #!/usr/bin/env node
 
+/**
+ *  abhijithvijayan
+ *
+ *  @author   abhijithvijayan <abhijithvijayan.in>
+ *  @license  MIT License
+ */
+
 const showBanner = require('node-banner');
 const importJsx = require('import-jsx');
 const {render} = require('ink');
