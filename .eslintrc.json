@@ -1,8 +1,10 @@
 {
-  "extends": [
-    "@abhijithvijayan/eslint-config"
-  ],
-  "rules": {
-    // your overrides
-  }
+	"extends": [
+		"@abhijithvijayan/eslint-config",
+		"@abhijithvijayan/eslint-config/node",
+		"@abhijithvijayan/eslint-config/react"
+	],
+	"rules": {
+		"no-process-exit": "off"
+	}
 }
