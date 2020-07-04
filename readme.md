@@ -33,7 +33,7 @@
 </p>
 <hr />
 
-<img src="screenshot.png" width="752">
+<img src="screenshot-v121.png" width="752">
 
 ❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/abhijithvijayan/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource) about it.
 

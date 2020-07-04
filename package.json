@@ -18,7 +18,7 @@
 	"files": [
 		"cli.js",
 		"ui.js",
-		"screenshot.png"
+		"screenshot-v121.png"
 	],
 	"scripts": {
 		"lint": "eslint . --ext .js",
