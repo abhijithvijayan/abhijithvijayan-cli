@@ -4,3 +4,10 @@ node_js:
   - '13'
   - '12'
   - '10'
+cache: yarn
+jobs:
+  include:
+    - stage: Test
+      install: yarn install
+      script:
+        - yarn lint
