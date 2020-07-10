@@ -16,7 +16,7 @@
   <a href="https://github.com/abhijithvijayan/abhijithvijayan-cli/blob/main/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/abhijithvijayan-cli.svg" alt="LICENSE" />
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource">
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan-cli%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource">
      <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
   </a>
 </div>
@@ -35,7 +35,7 @@
 
 <img src="screenshot-v121.png" width="752">
 
-❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/abhijithvijayan-cli/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource) about it.
+❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/abhijithvijayan-cli/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan-cli%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource) about it.
 
 ## Table of Contents
 
