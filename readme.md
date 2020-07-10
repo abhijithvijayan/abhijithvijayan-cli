@@ -6,15 +6,15 @@
   <a href="https://www.npmjs.com/package/abhijithvijayan">
     <img src="https://img.shields.io/npm/v/abhijithvijayan" alt="NPM" />
   </a>
-  <a href="https://travis-ci.com/abhijithvijayan/abhijithvijayan">
-    <img src="https://travis-ci.com/abhijithvijayan/abhijithvijayan.svg?branch=main" alt="Travis Build" />
+  <a href="https://travis-ci.com/abhijithvijayan/abhijithvijayan-cli">
+    <img src="https://travis-ci.com/abhijithvijayan/abhijithvijayan-cli.svg?branch=main" alt="Travis Build" />
   </a>
   </a>
-  <a href="https://david-dm.org/abhijithvijayan/abhijithvijayan">
-    <img src="https://img.shields.io/david/abhijithvijayan/abhijithvijayan.svg?colorB=orange" alt="DEPENDENCIES" />
+  <a href="https://david-dm.org/abhijithvijayan/abhijithvijayan-cli">
+    <img src="https://img.shields.io/david/abhijithvijayan/abhijithvijayan-cli.svg?colorB=orange" alt="DEPENDENCIES" />
   </a>
-  <a href="https://github.com/abhijithvijayan/abhijithvijayan/blob/main/license">
-    <img src="https://img.shields.io/github/license/abhijithvijayan/abhijithvijayan.svg" alt="LICENSE" />
+  <a href="https://github.com/abhijithvijayan/abhijithvijayan-cli/blob/main/license">
+    <img src="https://img.shields.io/github/license/abhijithvijayan/abhijithvijayan-cli.svg" alt="LICENSE" />
   </a>
   <a href="https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource">
      <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="TWEET" />
@@ -35,7 +35,7 @@
 
 <img src="screenshot-v121.png" width="752">
 
-❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/abhijithvijayan/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource) about it.
+❤️ it? ⭐️ it on [GitHub](https://github.com/abhijithvijayan/abhijithvijayan-cli/stargazers) or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20CLI%20of%20%40_abhijithv%0A%0Ahttps%3A%2F%2Fgithub.com%2Fabhijithvijayan%2Fabhijithvijayan%0A%0A%23npm%20%23cli%20%23javascript%20%23opensource) about it.
 
 ## Table of Contents
 
@@ -54,14 +54,14 @@ npx abhijithvijayan
 
 ## Issues
 
-_Looking to contribute? Look for the [Good First Issue](https://github.com/abhijithvijayan/abhijithvijayan/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
+_Looking to contribute? Look for the [Good First Issue](https://github.com/abhijithvijayan/abhijithvijayan-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22)
 label._
 
 ### 🐛 Bugs
 
-Please file an issue [here](https://github.com/abhijithvijayan/abhijithvijayan/issues/new) for bugs, missing documentation, or unexpected behavior.
+Please file an issue [here](https://github.com/abhijithvijayan/abhijithvijayan-cli/issues/new) for bugs, missing documentation, or unexpected behavior.
 
-[**See Bugs**](https://github.com/abhijithvijayan/abhijithvijayan/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
+[**See Bugs**](https://github.com/abhijithvijayan/abhijithvijayan-cli/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22type%3A+bug%22)
 
 ### Linting Config
 
