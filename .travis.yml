@@ -5,9 +5,5 @@ node_js:
   - '12'
   - '10'
 cache: yarn
-jobs:
-  include:
-    - stage: Test
-      install: yarn install
-      script:
-        - yarn lint
+script:
+  - yarn lint
